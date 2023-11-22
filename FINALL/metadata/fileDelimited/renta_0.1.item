@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_ieKiUIlZEe6746PXk1jasg" name="renta" dataPackage="_ieKiUYlZEe6746PXk1jasg" Server="Localhost 127.0.0.1" FilePath="C:/Users/mateo/Desktop/renta.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_ieKiUYlZEe6746PXk1jasg" name="default" dataManager="_ieKiUIlZEe6746PXk1jasg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_ieKiUolZEe6746PXk1jasg" id="_JOyv0IlZEe6746PXk1jasg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ieKiU4lZEe6746PXk1jasg" label="Pronvincias_renta" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ieKiVIlZEe6746PXk1jasg" label="Tipo_renta" length="41" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ieKiVYlZEe6746PXk1jasg" label="Periodo_renta" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_ieKiVolZEe6746PXk1jasg" label="Total_renta" length="-1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_QPm8oIlYEe6746PXk1jasg" name="mortandad" id="_Gg2_YIlYEe6746PXk1jasg" label="mortandad" dataPackage="_QQY_wIlYEe6746PXk1jasg" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://:3306/ia?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="3306" Username="root" Password="enc:system.encryption.key.v1:qOXlOmAwZvBhZbuJy23HBCZdZDK/0swpXwGdLsc+Ksg=" ServerName="" DatasourceName="" FileFieldName="" SID="ia" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_QPnjsIlYEe6746PXk1jasg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_QP7FsIlYEe6746PXk1jasg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_QP-JAIlYEe6746PXk1jasg" tag="Status" value=""/>
+    <taggedValue xmi:id="_QP-JAYlYEe6746PXk1jasg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_QP-JAolYEe6746PXk1jasg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_QP-JA4lYEe6746PXk1jasg" tag="Description" value=""/>
+    <taggedValue xmi:id="_QP-JBIlYEe6746PXk1jasg" tag="Author" value=""/>
+    <taggedValue xmi:id="_QP-JBYlYEe6746PXk1jasg" tag="otherParameter"/>
+    <taggedValue xmi:id="_QQNZkIlYEe6746PXk1jasg" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_QQNZkYlYEe6746PXk1jasg" tag="DB ProductVersion" value="8.0.35"/>
+    <taggedValue xmi:id="_QQNZkolYEe6746PXk1jasg" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_QPnjsYlYEe6746PXk1jasg" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_QQY_wIlYEe6746PXk1jasg" name="ia" dataManager="_QPm8oIlYEe6746PXk1jasg"/>
+</xmi:XMI>

@@ -1,0 +1,20 @@
+[ {
+  "baseItem" : {
+    "id" : "_ApUkQIlYEe6746PXk1jasg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Gg2_YIlYEe6746PXk1jasg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ieJ7QIlZEe6746PXk1jasg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ieJ7QIlZEe6746PXk1jasg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
